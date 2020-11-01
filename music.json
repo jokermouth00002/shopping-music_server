@@ -1,0 +1,84 @@
+{
+  "post1": [{
+      "id": 0,
+      "title": "BrunoMars",
+      "picSrc1": "https://i.imgur.com/p9rC6Bc.jpg",
+      "cdSrc": "https://i.imgur.com/260Qe5p.jpg",
+      "songs": [{
+          "id": 0,
+          "name": "Treasure",
+          "src": "Bruno Mars - Treasure (Official Video).mp3"
+        },
+        {
+          "id": 1,
+          "name": "That's What I Like",
+          "src": "Bruno Mars - That’s What I Like (Official Video).mp3"
+        },
+        {
+          "id": 2,
+          "name": "When I Was Your Man",
+          "src": "When I Was Your Man.mp3"
+        },
+        {
+          "id": 3,
+          "name": "24K Magic",
+          "src": "Bruno Mars - 24K Magic (Official Video).mp3"
+        }
+      ]
+    },
+    {
+      "id": 1,
+      "title": "Lany",
+      "picSrc1": "https://i.imgur.com/ZkEkv57.jpg",
+      "cdSrc": "https://i.imgur.com/PU0qVvj.jpg",
+      "songs": [{
+          "id": 0,
+          "name": "Good Girls",
+          "src": "LANY - Good Girls (Official Video).mp3"
+        },
+        {
+          "id": 1,
+          "name": "Malibu Nights",
+          "src": "LANY - Malibu Nights (Official Music Video).mp3"
+        },
+        {
+          "id": 2,
+          "name": "Super Far",
+          "src": "LANY - Super Far (Official Video).mp3"
+        },
+        {
+          "id": 3,
+          "name": "ILYSB",
+          "src": "LANY - ILYSB (Live in Los Angeles) (1).mp3"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "title": "88RISING",
+      "picSrc1": "https://i.imgur.com/iX32XkE.jpg",
+      "cdSrc": "https://i.imgur.com/iX32XkE.jpg",
+      "songs": [{
+          "id": 0,
+          "name": "Walking",
+          "src": "Joji Jackson Wang - Walking ft. Swae Lee Major Lazer (Official Video).mp3"
+        },
+        {
+          "id": 1,
+          "name": "Head in the Clouds",
+          "src": "joji - Head in the Clouds ☁☁☁ (official music video).mp3"
+        },
+        {
+          "id": 2,
+          "name": "Lover Boy 88",
+          "src": "【Original One】Lover Boy 88 Higher Brothers Phum Viphuri.mp3"
+        },
+        {
+          "id": 3,
+          "name": "Midsummer Madness",
+          "src": "88RISING - Midsummer Madness ft. Joji, Rich Brian, Higher Brothers, AUGUST 08 (Official Music Video).mp3"
+        }
+      ]
+    }
+  ]
+}

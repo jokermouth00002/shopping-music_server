@@ -1,0 +1,164 @@
+{
+  "posts1": [{
+      "id": 0,
+      "title": "shoppingCartIcon",
+      "content": "https://imgur.com/LaauszM.jpg"
+    },
+    {
+      "id": 1,
+      "title": "carouselImg",
+      "content": "https://imgur.com/NcnDWZ2.jpg"
+    },
+    {
+      "id": 2,
+      "title": "carouselImg",
+      "content": "https://imgur.com/zMkAnfp.jpg"
+    },
+    {
+      "id": 3,
+      "title": "carouselImg",
+      "content": "https://imgur.com/0grRO2B.jpg"
+    },
+    {
+      "id": 4,
+      "title": "sloganImg",
+      "content": "https://imgur.com/s3sZIAd.jpg"
+    }
+  ],
+  "posts2": [{
+      "id": 0,
+      "introduction": "坐起來舒適,看起來舒服,放起來耐用",
+      "content": "https://i.imgur.com/YYq7MvJ.jpg",
+      "category": "chair",
+      "price": 200,
+      "title": "典雅絨毛椅",
+      "quantity": 0
+    },
+    {
+      "id": 1,
+      "introduction": "外型小巧,經濟實惠,環保材質",
+      "content": "https://i.imgur.com/LwzYc4u.jpg",
+      "category": "vase",
+      "price": 250,
+      "title": "黑白瓷器",
+      "quantity": 0
+    },
+    {
+      "id": 2,
+      "introduction": "坐起來舒適,看起來舒服,放起來耐用",
+      "content": "https://i.imgur.com/PDtyCH9.jpg",
+      "category": "chair",
+      "price": 500,
+      "title": "簡約椅",
+      "quantity": 0
+    },
+    {
+      "id": 3,
+      "introduction": "紀錄時間的好幫手,讓你更能管理自己的人生",
+      "content": "https://i.imgur.com/3dMQ4iA.jpg",
+      "category": "clock",
+      "price": 600,
+      "title": "黑色米奇鬧鐘",
+      "quantity": 0
+    },
+    {
+      "id": 4,
+      "introduction": "紀錄時間的好幫手,讓你更能管理自己的人生",
+      "content": "https://i.imgur.com/dTfu3Mu.jpg",
+      "category": "clock",
+      "price": 800,
+      "title": "金框懷錶",
+      "quantity": 0
+    },
+    {
+      "id": 5,
+      "introduction": "紀錄時間的好幫手,讓你更能管理自己的人生",
+      "content": "https://i.imgur.com/eUJQiSj.jpg",
+      "category": "clock",
+      "price": 400,
+      "title": "羅馬鬧鐘",
+      "quantity": 0
+    },
+    {
+      "id": 6,
+      "introduction": "紀錄時間的好幫手,讓你更能管理自己的人生",
+      "content": "https://i.imgur.com/Znt0zdj.jpg",
+      "category": "clock",
+      "price": 600,
+      "title": "白色米奇鬧鐘",
+      "quantity": 0
+    },
+    {
+      "id": 7,
+      "introduction": "外型小巧,經濟實惠,環保材質",
+      "content": "https://i.imgur.com/JVHoaEW.jpg",
+      "category": "vase",
+      "price": 200,
+      "title": "淡褐色花瓶",
+      "quantity": 0
+    },
+    {
+      "id": 8,
+      "introduction": "外型小巧,經濟實惠,環保材質",
+      "content": "https://i.imgur.com/XT76th5.jpg",
+      "category": "vase",
+      "price": 700,
+      "title": "墨綠色花瓶",
+      "quantity": 0
+    },
+    {
+      "id": 9,
+      "introduction": "外型小巧,經濟實惠,環保材質",
+      "content": "https://i.imgur.com/YA9iFRy.jpg",
+      "category": "vase",
+      "price": 1000,
+      "title": "白色吊掛花盆",
+      "quantity": 0
+    },
+    {
+      "id": 10,
+      "introduction": "坐起來舒適,看起來舒服,放起來耐用",
+      "content": "https://i.imgur.com/ibdArqV.jpg",
+      "category": "chair",
+      "price": 1200,
+      "title": "藤製坐椅",
+      "quantity": 0
+    },
+    {
+      "id": 11,
+      "introduction": "坐起來舒適,看起來舒服,放起來耐用",
+      "content": "https://i.imgur.com/rMOWH00.jpg",
+      "category": "chair",
+      "price": 500,
+      "title": "藍色木製座椅",
+      "quantity": 0
+    },
+    {
+      "id": 12,
+      "introduction": "開啟你夜晚的溫馨時刻",
+      "content": "https://i.imgur.com/W92Xn0e.jpg",
+      "category": "light",
+      "price": 500,
+      "title": "米白色燈罩組",
+      "quantity": 0
+    },
+    {
+      "id": 13,
+      "introduction": "開啟你夜晚的溫馨時刻",
+      "content": "https://i.imgur.com/zVDWv0d.jpg",
+      "category": "light",
+      "price": 800,
+      "title": "黑色檯燈",
+      "quantity": 0
+    },
+    {
+      "id": 14,
+      "introduction": "開啟你夜晚的溫馨時刻",
+      "content": "https://i.imgur.com/uruedYx.jpg",
+      "category": "light",
+      "price": 900,
+      "title": "創意裝飾燈泡",
+      "quantity": 0
+    }
+  ]
+}

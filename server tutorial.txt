@@ -1,0 +1,15 @@
+登入:
+ssh chris@login.christsao.me
+christsao12345
+常用指令:
+pwd
+ls
+cd
+pm2 list
+pm2 start pm2.json
+pm2 stop <<id>>
+pm2 restart <<id>>
+
+
+Ctrl+C: 終止程序
+Ctrl+D: 登出

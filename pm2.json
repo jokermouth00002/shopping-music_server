@@ -1,0 +1,11 @@
+{
+ "apps": [{
+  "name": "music-server",
+  "script": "app.js",
+  "instances": 1,
+  "env": {
+   "NODE_ENV": "production",
+   "PORT": "39876"
+  }
+ }]
+}
